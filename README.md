@@ -6,10 +6,13 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div><br>
 
-## Dificuldades:
-No projeto foi utilizado<br>
+## No projeto foi utilizado<br>
+Variáveis<br>
 Media Query para responsividade.<br>
 Display Grid<br>
 Pseudo-classes<br>
 Transição<br>
 animação com @keyframe <br>
+Clamp<br>
+
+
