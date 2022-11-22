@@ -1,4 +1,4 @@
-# HTML-CSS-05-Grid
+# Aprendendo utilizar Grid
 [<img src="src/HTML-CSS-05.gif" alt="gif da página HTML com CSS 5">]
 ## Tecnologias Utilizadas:
 <div style="display: inline_block"><br>
